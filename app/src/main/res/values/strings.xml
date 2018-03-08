@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Create file in Kotlin</string>
+    <string name="create">Create file!</string>
+</resources>
